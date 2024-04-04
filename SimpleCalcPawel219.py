@@ -1,5 +1,6 @@
 # Simple Python calculator by Pawel219
 
+#Math functions
 def add(a, b):
     return a + b
 
