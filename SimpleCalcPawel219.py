@@ -13,7 +13,8 @@ def multiply(a, b):
 def divide(a, b):
     return a / b
 
-print("Simple Python calculator by Pawel219")
+
+print("Simple and goofy Python calculator by Pawel219")
 print("Choose an operation:")
 print("1. Add")
 print("2. Subtract")
